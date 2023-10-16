@@ -1,0 +1,4 @@
+
+use my_db
+
+db.my_db.insertOne({name: "Moses"})
